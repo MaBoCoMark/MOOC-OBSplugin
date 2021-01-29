@@ -18,10 +18,11 @@ C:\xampp\htdocs
 ```
 - Start Apache Module in Xampp
 - Then use my \*.bat file to control.**(Make sure OBS WebSocket Server is ON)**
+( Here are the [Files](https://github.com/MaBoCoMark/MOOC-OBSplugin/tree/main/Terminal))
 
 ## Updates
 **v0.1.0** First release!
 
 -Mark
 -Jan.27.2021
--UTC 3:52 AM
+-UTC 3:54 AM
