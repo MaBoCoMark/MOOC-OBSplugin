@@ -22,7 +22,8 @@ C:\xampp\htdocs
 
 ## Updates
 **v0.1.0** First release!
+**v0.1.1** Structure Fix
 
 -Mark
 -Jan.27.2021
--UTC 3:54 AM
+-UTC 4:07 AM
