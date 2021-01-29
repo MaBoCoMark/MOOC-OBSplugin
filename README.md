@@ -21,8 +21,9 @@ C:\xampp\htdocs
 ( Here are the [Files](https://github.com/MaBoCoMark/MOOC-OBSplugin/tree/main/Terminal))
 
 ## Updates
-**v0.1.0** First release!
-**v0.1.1** Structure Fix
+ **v0.1.0** First release! 
+ 
+ **v0.1.1** Structure Fix
 
 -Mark
 -Jan.27.2021
