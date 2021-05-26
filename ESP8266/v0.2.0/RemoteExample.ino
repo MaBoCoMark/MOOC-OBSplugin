@@ -1,9 +1,9 @@
-#define websockets_server_host "192.168.0.2"
-#define websockets_server_port 4444
-
 #include <ESP8266WiFi.h>
 #include <ESP8266WiFiMulti.h>
 #include <WebSockets2_Generic.h>
+
+#define websockets_server_host "192.168.0.2"
+#define websockets_server_port 4444
 ESP8266WiFiMulti wifiMulti;
 using namespace websockets2_generic;
 WebsocketsClient client;
